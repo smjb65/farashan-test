@@ -1,0 +1,8 @@
+{
+  "name": "Farashan Media",
+  "description": "A media sharing platform for Hussainiya Farashan featuring speeches and eulogies with role-based access control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
